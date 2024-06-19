@@ -3,8 +3,8 @@
 
 [default]
 account = "myaccount"
-user = "myuser"
-password = "mypassword"
+user = "test_user"
+password = "Test@1020"
 role = "HOL_ROLE"
 warehouse = "HOL_WH"
 database = "HOL_DB"
